@@ -7,6 +7,8 @@
 * CSS
   * Bootstrap
   * Flexbox/Grid
+  * Responsive web
+  * SCSS
 * Javascript
   * Basics:
     * Values&Types
@@ -20,29 +22,32 @@
   * Objects
   * JSON, APIs
   * "this"
-  * Prototype
+  * Prototypes
   * Async, callbacks, promises
   * ES6, 7 and 8
-  * Performance, testing
 * jQuery
 * DOM
+* React and Redux
+* Task runners, package managers, module bundler
+* Git, GitHub
 * Design Patterns
 * Algorithms
-* Git
 
 
 ## HTML and CSS
 
 - UDEMY course: The Web Developer Bootcamp by Colt Steele (here come the exact parts)
-- freeCodeCamp 
-
+- freeCodeCamp.com
 
 ## Javascript
 ## jQuery
 ## DOM
+## React and Redux
+## Task runners, package managers, module bundler
+## Git, GitHub
 ## Design Patterns
 ## Algorithms
-## Git
+
 
 
 
