@@ -33,11 +33,32 @@
 * Design Patterns
 * Algorithms
 
+---
 
-## HTML and CSS
+## HTML
 
-- UDEMY course: The Web Developer Bootcamp by Colt Steele (here come the exact parts)
+### Main resources
+
+- UDEMY course: The Web Developer Bootcamp by Colt Steele
 - freeCodeCamp.com
+
+### Other resources
+
+---
+
+## CSS
+
+### Main resources
+
+- UDEMY course: The Web Developer Bootcamp by Colt Steele
+- freeCodeCamp.com
+
+### Bootstrap
+### Flexbox/Grid
+### Responsive web
+### SCSS
+
+---
 
 ## Javascript
 ## jQuery
